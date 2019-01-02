@@ -1,4 +1,4 @@
-**Task:** To predict traffic patterns in each of these four junctions for the next 4 months.
+**Task:** To predict traffic patterns in each of these four junctions.
 
 **Data:** The sensors on each of these junctions were collecting data at different times,
 hence you will see traffic data from different time periods.
